@@ -1,5 +1,5 @@
 # Fibonacci
-Fibonacci example in C#
+Fibonacci example in C# .NET Core 2.1
 
 ## Usage:
 1. dotnet.exe .\Fibonacci.dll

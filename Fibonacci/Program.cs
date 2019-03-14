@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace Fibonacci
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Fibonacci {
+    class Program {
+        static void Main(string[] args) {
             Console.Clear();
 
             int input = 0;
@@ -19,8 +16,7 @@ namespace Fibonacci
                 Console.WriteLine("No target value specified... Please try again, providing a whole number (integer) as the command argument.\n");
             }
 
-            void fibonacci(int max)
-            {
+            void fibonacci(int max) {
                 int x = 0;
                 int y = 1;
 
